@@ -112,7 +112,7 @@
 }
 
 - (void)setup {
-    self.window.title = @"自动回复设置";
+    self.window.title = @"自动回复设置ForSmile";
     self.window.contentView.layer.backgroundColor = [kBG1 CGColor];
     [self.window.contentView.layer setNeedsDisplay];
     
